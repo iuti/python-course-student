@@ -55,15 +55,19 @@ Documents/
 ## 過去のcolabリンク
 
 第二回　if, else、input、
-  生徒用 python_lesson02_if_student_60min.ipynb 
-  講師用 python_lesson02_if_teacher_60min.ipynb 
+
+ - 生徒用 python_lesson02_if_student_60min.ipynb 
+ - 講師用 python_lesson02_if_teacher_60min.ipynb 
+  
 
 第三回　for,
-	生徒用 python_lesson03_for_student_60min.ipynb 
-	講師用 python_lesson03_for_teacher_60min.ipynb 
+
+ - 生徒用 python_lesson03_for_student_60min.ipynb 
+ - 講師用 python_lesson03_for_teacher_60min.ipynb 
 
 第四回　while, 
-	生徒用 python_lesson04_while_student_60min.ipynb 
-	講師用 python_lesson04_while_teacher_60min.ipynb 
+
+ - 生徒用 python_lesson04_while_student_60min.ipynb
+ - 講師用 python_lesson04_while_teacher_60min.ipynb 
 
 
