@@ -52,22 +52,19 @@ Documents/
 
 外部ライブラリは使用しません。
 
-## 過去のcolabリンク
+## 過去のColab教材
 
-第二回　if, else、input、
+### 第2回：if・else・input
 
- - 生徒用 python_lesson02_if_student_60min.ipynb 
- - 講師用 python_lesson02_if_teacher_60min.ipynb 
-  
+- [生徒用ノートをColabで開く](https://colab.research.google.com/github/iuti/python-course-student/blob/main/past_colab/python_lesson02_if_student_60min.ipynb)
+- 講師用ノートは模範解答を含むため非公開で管理しています
 
-第三回　for,
+### 第3回：for文
 
- - 生徒用 python_lesson03_for_student_60min.ipynb 
- - 講師用 python_lesson03_for_teacher_60min.ipynb 
+- [生徒用ノートをColabで開く](https://colab.research.google.com/github/iuti/python-course-student/blob/main/past_colab/python_lesson03_for_student_60min.ipynb)
+- 講師用ノートは模範解答を含むため非公開で管理しています
 
-第四回　while, 
+### 第4回：while文
 
- - 生徒用 python_lesson04_while_student_60min.ipynb
- - 講師用 python_lesson04_while_teacher_60min.ipynb 
-
-
+- [生徒用ノートをColabで開く](https://colab.research.google.com/github/iuti/python-course-student/blob/main/past_colab/python_lesson04_while_student_60min.ipynb)
+- 講師用ノートは模範解答を含むため非公開で管理しています
