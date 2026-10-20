@@ -9,6 +9,9 @@
 | 回 | 内容 | フォルダ |
 |---:|---|---|
 | 第6回 | VS Codeへの移行とリストの基本 | [`lesson06_list`](lesson06_list/) |
+| 第7回 | リストを変化させる（追加・検索・削除） | [`lesson07_list_change`](lesson07_list_change/) |
+| 第8回 | リストを集計する（合計・平均・最大・最小） | [`lesson08_list_stats`](lesson08_list_stats/) |
+| 第9回 | 添字でリストを使いこなす | [`lesson09_list_index`](lesson09_list_index/) |
 
 ## 使い方
 
